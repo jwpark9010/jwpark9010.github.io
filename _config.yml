@@ -305,8 +305,13 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/:path/
+    permalink:         /projects/:name/
     output:            true
+  
+  blog:
+    permalink:         /blog/:name/
+    output:            true
+  #내가 추가한 것
 
 
 # File inclusion/exclusion

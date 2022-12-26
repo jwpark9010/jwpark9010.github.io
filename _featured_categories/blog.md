@@ -8,10 +8,10 @@ slug: blog
 sidebar: true
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  다양한 정보를 기록하는 카테고리입니다.
+  일상을 기록하는 카테고리입니다.
 menu : true
-submenu: false
-order: 9
+#submenu: false
+order: 3
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 ---
