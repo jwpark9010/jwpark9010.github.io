@@ -158,6 +158,12 @@ defaults:
     values:
       seo:
         type:          WebPage
+  #내가 추가한 것
+  - scope:
+      type:            blog
+    values:
+      seo:
+        type:          WebPage
 
 kramdown:
   math_engine:         mathjax
