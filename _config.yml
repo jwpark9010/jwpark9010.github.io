@@ -307,7 +307,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /projects/:name/
+    permalink:         /project/:name/
     output:            true
   
   blog:
