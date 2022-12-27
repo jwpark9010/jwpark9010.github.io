@@ -166,6 +166,11 @@ defaults:
     values:
       seo:
         type:          WebPage
+  - scope:
+      type:            study
+    values:
+      seo:
+        type:          WebPage
 
 kramdown:
   math_engine:         mathjax
@@ -312,6 +317,10 @@ collections:
   
   blog:
     permalink:         /blog/:name/
+    output:            true
+  
+  study:
+    permalink:         /study/:name/
     output:            true
   #내가 추가한 것
 
