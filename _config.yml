@@ -309,7 +309,7 @@ collections:
     output:            true
 
   projects:
-    permalink:         /project/:name/
+    permalink:         /project/:path/
     output:            true
 
 
