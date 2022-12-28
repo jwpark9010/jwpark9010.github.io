@@ -3,8 +3,8 @@ layout: post
 title: Attention
 description: >
   Attention
-categories: deep
-tags: study deep
+categories: study
+tags: deep
 sitemap: false
 hide_last_modified: true
 comments: true
