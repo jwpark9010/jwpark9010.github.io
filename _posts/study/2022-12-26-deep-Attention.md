@@ -4,7 +4,7 @@ title: Attention
 description: >
   Attention
 categories: [study, deep]
-tags: [study, deep]
+tags: [deep]
 sitemap: false
 hide_last_modified: true
 comments: true
