@@ -304,15 +304,7 @@ collections:
   projects:
     permalink:         /project/:name/
     output:            true
-  
-  blog:
-    permalink:         /blog/:name/
-    output:            true
-  
-  study:
-    permalink:         /study/:name/
-    output:            true
-  #내가 추가한 것
+
 
 
 # File inclusion/exclusion

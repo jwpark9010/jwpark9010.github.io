@@ -10,8 +10,8 @@ sidebar: true
 description: >
   일상을 기록하는 카테고리입니다.
 menu : true
-#submenu: false
-order: 3
+submenu: false
+order: 2
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 ---

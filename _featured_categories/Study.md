@@ -9,9 +9,10 @@ sidebar: true
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
   공부한 내용을 기록하는 카테고리입니다.
+type: category
 menu : true
-#submenu: false
-order: 2
+submenu: false
+order: 4
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 ---
