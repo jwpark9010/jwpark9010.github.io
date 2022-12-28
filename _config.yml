@@ -177,27 +177,14 @@ kramdown:
 # To remove Google Anaylics from your page, remove the line below.
 # google_analytics:      UA-XXXXXXXX-X
 
-# Set which comment system to use
-comments:
-  # 'disqus' / 'giscus' / 'utterances' are available
-  provider:            giscus
-
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+ disqus:                jinon
 
 # You must install giscus github app before use.(https://github.com/apps/giscus)
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
-giscus:
-  repo:                "IceChoco/icechoco.github.io"
-  repo-id:             "R_kgDOGGPhNA"
-  category:            "Comments"
-  category-id: "DIC_kwDOGGPhNM4CAC4O"
-  mapping: "pathname"
-  reaction-enabled:    "1"
-  theme:               "light"
-  crossorigin:         "anonymous"
+
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
