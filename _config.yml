@@ -47,13 +47,13 @@ author:
   # twitter:             <username>
 
 # Add links to the sidebar.
-menu:
+# menu:
 #   - title:             Blog
 #     url:               /blog/
 #   - title:             Project
 #     url:               /project/
-  - title:             About
-    url:               /about/
+# - title:             About
+#   url:               /about/
 #   - title:             Study
 #     url:               /study/  
 

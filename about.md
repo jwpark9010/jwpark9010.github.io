@@ -1,5 +1,10 @@
 ---
 layout: about
+title: About
+permalink: /about/
+more_posts: posts.md
+sidebar: true
+order: 1
 image: /assets/img/blog/hydejack-9.jpg
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
@@ -7,6 +12,7 @@ description: >
 hide_description: true
 redirect_from:
   - /download/
+  
 ---
 
 # About
