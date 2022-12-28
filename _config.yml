@@ -47,15 +47,15 @@ author:
   # twitter:             <username>
 
 # Add links to the sidebar.
-menu:
-  - title:             Blog
-    url:               /blog/
-  - title:             Project
-    url:               /project/
-  - title:             About
-    url:               /about/
-  - title:             Study
-    url:               /study/  
+# menu:
+#   - title:             Blog
+#     url:               /blog/
+#   - title:             Project
+#     url:               /project/
+#   - title:             About
+#     url:               /about/
+#   - title:             Study
+#     url:               /study/  
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
