@@ -3,7 +3,8 @@ layout: post
 title: Transformer for Time Series Forecasting
 description: >
   Transformer를 사용하여 시계열 데이터 예측 방법
-tags: [stduy]
+categories: study
+tags: stduy
 sitemap: false
 hide_last_modified: true
 ---
