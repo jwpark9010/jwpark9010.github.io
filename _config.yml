@@ -159,7 +159,7 @@ defaults:
   - scope:
       type:            featured_tags
     values:
-      menu:            false
+      menu:            true
       seo:
         type:          WebPage
 
