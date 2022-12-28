@@ -3,8 +3,8 @@ layout: post
 title: Attention
 description: >
   Attention
-categories: study
-tags: deep
+categories: [study, DeepLearning]
+tags: [study, DeepLearning]
 sitemap: false
 hide_last_modified: true
 comments: true
