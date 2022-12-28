@@ -3,7 +3,7 @@ layout: post
 title: test_study
 description: >
   test 중입니다.
-categories: [study]
+categories: [study, bigdata]
 tags: [bigdata]
 sitemap: false
 hide_last_modified: true
