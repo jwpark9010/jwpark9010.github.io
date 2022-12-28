@@ -153,11 +153,13 @@ defaults:
   - scope:
       type:            featured_categories
     values:
+      menu:            true
       seo:
         type:          WebPage
   - scope:
       type:            featured_tags
     values:
+      # menu:            false
       seo:
         type:          WebPage
 
