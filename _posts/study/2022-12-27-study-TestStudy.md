@@ -7,4 +7,5 @@ categories: study
 tags: stduy
 sitemap: false
 hide_last_modified: true
+comments: true
 ---

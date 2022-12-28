@@ -7,5 +7,6 @@ categories: blog
 tags: blog
 sitemap: false
 hide_last_modified: true
+comments: true
 ---
 

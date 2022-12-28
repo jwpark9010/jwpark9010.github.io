@@ -7,6 +7,7 @@ categories: study
 tags: stduy
 sitemap: false
 hide_last_modified: true
+comments: true
 ---
 # 시계열 데이터에 Transformer 사용시 문제점
 
