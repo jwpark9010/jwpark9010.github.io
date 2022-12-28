@@ -3,7 +3,7 @@ layout: post
 title: Attention
 description: >
   Attention
-categories: [study, deep]
+categories: [study]
 tags: [deep]
 sitemap: false
 hide_last_modified: true
