@@ -4,7 +4,6 @@ title: test_post
 description: >
   test
 categories: blog
-tags: blog
 sitemap: false
 hide_last_modified: true
 comments: true

@@ -4,7 +4,6 @@ title: test_project
 description: >
   test
 categories: project
-tags: project
 sitemap: false
 hide_last_modified: true
 comments: true
