@@ -145,6 +145,7 @@ defaults:
       type:            posts
     values:
       comments:        true
+      applause_button: true
       
 
 
@@ -184,12 +185,26 @@ kramdown:
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-disqus:                jinon
+# comments:
+#   provider:                giscus
 
 # You must install giscus github app before use.(https://github.com/apps/giscus)
 # Make sure all variables are set properly. Check below link for detail.
 # https://giscus.vercel.app/
 
+# giscus:
+#   repo:                "jwpark9010/jwpark9010.github.io"
+#   repo-id:             "MDEwOlJlcG9zaXRvcnkyNzU4Mjk1NTc="
+#   category:            "Comments"
+#   category-id:         "DIC_kwDOEHDTNc4B-MIg"
+#   mapping:             "pathname"
+#   reaction-enabled:    "1"
+#   data-emit-metadata:  "0"
+#   theme:               "dark_dimmed"
+#   data-lang:           "en"
+#   crossorigin:         "anonymous"
+
+lightbox:              true
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
