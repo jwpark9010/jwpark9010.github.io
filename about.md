@@ -12,6 +12,5 @@ description: >
 
 ---
 
-# About
-- HI
+HI
 <!--author-->
