@@ -34,13 +34,14 @@ Machine Learning에 있어서 Best Feature Subset 을 주는 것이 아니라, �
 
 ### Embedded Method
 Embedded method 는 모델의 정확도에 기여하는 피처를 학습합니다. 좀 더 적은 계수를 가지는 회귀식을 찾는 방향으로 제약조건을 주어 이를 제어합니다. 예시로는 아래와 같습니다.
+
 **LASSO** L1-norm을 통해 제약 주는 방법
 
 **Ridge** L2-norm을 통해 제약 주는 방법
 
 **Elastic Net** 위 둘을 선형결합한 방법
 
-**SelectFromModel** Decision Tree 기반 알고리즘에서 피처를 뽑아오는 방법(RandomForest, LightGBM 등)
+**SelectFromModel** Tree 기반 알고리즘에서 피처를 뽑아오는 방법(RandomForest, LightGBM 등)
 
 
 ## 참고
