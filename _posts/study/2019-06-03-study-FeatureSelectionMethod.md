@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feature Selection Method
+title: "Feature Selection Method"
 description: >
   #Feature selection #Wrapper method #Filter method #Embedded method'
 categories: [study]

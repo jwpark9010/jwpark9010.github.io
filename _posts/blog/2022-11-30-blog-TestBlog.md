@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test_post
+title: "test_post"
 description: >
   test
 categories: blog

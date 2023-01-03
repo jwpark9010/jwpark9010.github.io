@@ -1,6 +1,6 @@
 ---
 layout: post
-title: test_project
+title: "test_project"
 description: >
   test
 categories: project

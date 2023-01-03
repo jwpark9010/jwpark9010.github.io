@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cuda 설치 방법
+title: "Cuda 설치 방법"
 description: >
   #NVIDIA 드라이버 #CUDA 설치 #cuDNN 설치
 categories: [study]
