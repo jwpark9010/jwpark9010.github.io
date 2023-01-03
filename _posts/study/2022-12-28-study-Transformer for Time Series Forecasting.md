@@ -9,7 +9,11 @@ sitemap: false
 hide_last_modified: true
 comments: true
 ---
-# 시계열 데이터에 Transformer 사용시 문제점
+
+**Transformer**는 자연어처리 분야에서 많이 쓰이던 RNN 구조가 아닌 **Attention**이라는 메커니즘을 활용한 것이다. 본 포스터에서는 Transformer에 대한 구체적인 설명을 하지 않고 시계열 데이터에 사용하는 방법에 대해서만 기록 하겠다.
+
+
+## 시계열 데이터에 Transformer 사용시 문제점
 
 Transformer 활용한 기존 연구들은 자연어 처리 분야에 활용되었던 일반적인 Transformer 구조를 빌려 시계열 예측 프레임워크를 구성한다.
 

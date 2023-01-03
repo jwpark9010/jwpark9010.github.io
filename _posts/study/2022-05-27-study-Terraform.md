@@ -9,9 +9,7 @@ sitemap: false
 hide_last_modified: true
 comments: true
 ---
-
-## Terraform이란?
-IaC(Infrastructure as Code)로서 코드로 인프라를 관리하는 것
+Terraform은 HashiCorp가 개발한 IaC(Infrastructure as Code)로서 코드로 인프라를 관리하는 것이다. GCP, AWS Azure 등 다양한 플래폿을 지원한다. 
 
 ## Terraform 작동 원리
 **Terraform init**

@@ -9,8 +9,6 @@ sitemap: false
 hide_last_modified: true
 comments: true
 ---
-
-## Feature Selection Method
 **변수 선택 기법(Feature Selection Method)**모델을 돌릴 때, 불필요한 변수들을 제거함으로써 모델의 속도 개선, 오버피팅 방지 등의 효과를 얻기 위해 사용하는 방법
 
 > Feature Selection의 3가지 방법

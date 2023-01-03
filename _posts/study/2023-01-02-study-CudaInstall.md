@@ -10,8 +10,9 @@ hide_last_modified: true
 comments: true
 ---
 
-## Infomation
-|||
+본 포스터에서 사용된 사양들은 다음과 같다. 
+
+|항목|사양|
 |---|---|
 |linux|ubuntu 20.04 LTS|
 |그래픽 카드|RTX A2000 12GB|
